@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Learning nodeJs",
+  "main": "index.js",
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stunny12/nodejs.git"
+  },
+  "keywords": [
+    "sample",
+    "project"
+  ],
+  "author": "Ragupathi Devaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stunny12/nodejs/issues"
+  },
+  "homepage": "https://github.com/Stunny12/nodejs#readme"
+}
