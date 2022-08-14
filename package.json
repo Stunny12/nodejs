@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learning nodeJs",
   "main": "index.js",
- "scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Stunny12/nodejs/issues"
   },
-  "homepage": "https://github.com/Stunny12/nodejs#readme"
+  "homepage": "https://github.com/Stunny12/nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
 }
